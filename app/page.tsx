@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <>
     <Layout>
-      <div className="max-w-4xl mx-auto w-full">
+      <div className="max-w-4xl mx-auto w-full ">
         <div className="mb-8">
           <h1 className="text-4xl font-semibold mb-2">Hi, Elizabeth!</h1>
           <p className="text-xl text-muted-foreground mb-6">
